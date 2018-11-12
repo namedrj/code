@@ -37,11 +37,10 @@ $ git checkout (branch)
 ```
 $ git log --oneline <简要展示>
 $ git tag -a (tag_name) -m (remarks)
-<-a annotated(有注释的)>
-
-
+<!-- -a = annotated(有注释的) -->
 ```
 # 分支 branch
+1...
 # 合并分支
 # 远程仓库
 # 如何多人远程合作
