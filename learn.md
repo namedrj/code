@@ -27,10 +27,20 @@ $ git init code
 $ cd code/
 $ git status
 On branch master
-$ 
+$ git add .
+$ git commit -m '(notes)'
+$ git checkout (branch)
 ```
 # 三种状态
+
 # tag 标签
+```
+$ git log --oneline <简要展示>
+$ git tag -a (tag_name) -m (remarks)
+<-a annotated(有注释的)>
+
+
+```
 # 分支 branch
 # 合并分支
 # 远程仓库
